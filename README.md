@@ -9,8 +9,6 @@ Welcome to my personal collection of LeetCode solutions! This repository contain
 The solutions are organized by problem name for easy navigation.
 
 - ✅ `solution.py` — My solution in Python
-- 📄 `README.md` — Explanation of the approach (optional)
-- 📚 `notes.txt` — Any insights, alternate solutions, or complexity analysis (optional)
 
 ---
 
