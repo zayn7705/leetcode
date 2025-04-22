@@ -28,3 +28,11 @@ _Last updated: April 21 2025_
 - Build a reference for common patterns  
 - Stay sharp for interviews  
 - Track progress over time
+
+## 🤝 Contributions
+
+Not accepting contributions — this is a personal repo for now. But feel free to check out the code and reach out if you have questions or suggestions!
+
+## 📄 License
+
+MIT License.
