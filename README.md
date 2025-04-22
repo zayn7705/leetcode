@@ -31,7 +31,7 @@ _Last updated: April 21 2025_
 
 ## 🤝 Contributions
 
-Not accepting contributions — this is a personal repo for now. But feel free to check out the code and reach out if you have questions or suggestions!
+Not accepting contributions, but feel free to check out the code and reach out if you have questions or suggestions!
 
 ## 📄 License
 
