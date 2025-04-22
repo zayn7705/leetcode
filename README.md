@@ -12,22 +12,6 @@ The solutions are organized by problem name for easy navigation.
 
 ---
 
-## 🧩 Problem Categories
-
-- Array & Strings
-- Linked Lists
-- Trees & Graphs
-- Dynamic Programming
-- Backtracking
-- Binary Search
-- Recursion
-- Greedy
-- Math & Bit Manipulation
-- Heaps, Stacks, and Queues
-- Database (SQL)
-
----
-
 ## 📈 Progress
 
 | Difficulty | Solved |
