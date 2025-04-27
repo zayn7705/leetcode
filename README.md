@@ -16,7 +16,7 @@ The solutions are organized by problem name for easy navigation.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 03     |
+| Easy       | 04     |
 | Medium     | 01     |
 | Hard       | XX     |
 
