@@ -6,7 +6,7 @@ Welcome to my personal collection of LeetCode solutions! This repository contain
 
 ## 📁 Structure
 
-The solutions are organized by problem name for easy navigation.
+The solutions are organized by problem name and difficulty for easy navigation.
 
 - ✅ `solution.py` — My solution in Python
 
