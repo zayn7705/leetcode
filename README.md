@@ -16,11 +16,11 @@ The solutions are organized by problem name and difficulty for easy navigation.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 08     |
+| Easy       | 09     |
 | Medium     | 02     |
 | Hard       | XX     |
 
-_Last updated: May 2 2025_
+_Last updated: May 4 2025_
 
 ## 🧪 Why I Made This
 
