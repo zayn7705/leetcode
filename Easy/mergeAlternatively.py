@@ -1,4 +1,4 @@
-# Time complexity: O(n)
+# Time Complexity: O(n + m)
 class Solution(object):
     def mergeAlternately(self, word1, word2):
         """
@@ -7,13 +7,13 @@ class Solution(object):
         :rtype: str
         """
         mergedWord = ""
-        
-        for i in range(max(len(word1), len(word2))):
-            if i < len(word1):
-                mergedWord += word1[i]
+        minLen = min(len(word1), len(word2))
 
-            if i < len(word2):
-                mergedWord += word2[i]
+        for i in range(minLen):
+            mergedWord += word1[i]
+            mergedWord += word2[i]
+        
+        mergedWord += word1[minLen:] + word2[minLen:]
 
         return mergedWord
         
