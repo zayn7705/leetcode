@@ -17,10 +17,10 @@ The solutions are organized by problem name and difficulty for easy navigation.
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 09     |
-| Medium     | 02     |
+| Medium     | 03     |
 | Hard       | XX     |
 
-_Last updated: May 4 2025_
+_Last updated: May 5 2025_
 
 ## 🧪 Why I Made This
 
