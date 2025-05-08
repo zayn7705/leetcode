@@ -17,7 +17,7 @@ The solutions are organized by problem name and difficulty for easy navigation.
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 12     |
-| Medium     | 03     |
+| Medium     | 04     |
 | Hard       | XX     |
 
 _Last updated: May 8 2025_
